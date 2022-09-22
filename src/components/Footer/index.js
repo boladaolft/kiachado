@@ -117,7 +117,7 @@ export default function Footer() {
                             <Logo color={useColorModeValue('gray.700', 'white')} />
                         </Box>
                         <Text fontSize={'sm'} className="copyright">
-                            © 2020-2022 Ki Achado. Todos os direitos reservados
+                            © 2020-2022 ShopT3m. Todos os direitos reservados
                         </Text>
                         <Stack direction={'row'} spacing={6}>
                             <SocialButton label={'Twitter'} href={'https://www.tiktok.com/@temd3tudo1pouc0'} target="_bank">
