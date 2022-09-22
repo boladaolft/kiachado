@@ -120,13 +120,11 @@ export default function Footer() {
                             © 2020-2022 Ki Achado. Todos os direitos reservados
                         </Text>
                         <Stack direction={'row'} spacing={6}>
-                            <SocialButton label={'Twitter'} href={'https://www.tiktok.com/@kiachado'} target="_bank">
+                            <SocialButton label={'Twitter'} href={'https://www.tiktok.com/@temd3tudo1pouc0'} target="_bank">
                                 <FaTiktok />
                             </SocialButton>
-                            <SocialButton label={'YouTube'} href={'https://www.youtube.com/channel/UC6TeKTAIWTx4AnQrXnVpJmQ'} target="_bank">
-                                <FaYoutube />
-                            </SocialButton>
-                            <SocialButton label={'Instagram'} href={'https://www.instagram.com/kiachado_com/'} target="_bank">
+                            
+                            <SocialButton label={'Instagram'} href={'https://www.instagram.com/shopt3m/'} target="_bank">
                                 <FaInstagram />
                             </SocialButton>
                         </Stack>
