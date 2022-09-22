@@ -19,7 +19,7 @@ export default function Topbar () {
                 justifyContent="center"
             >
                 <Flex className="logo" justifyContent="center">
-                    <Img w={52} h={12} src="/images/logo.png" />
+                    <Img w={52} h={24} src="/images/logo.png" />
                 </Flex>
             </Container>
         </Flex>
