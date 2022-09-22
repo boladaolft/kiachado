@@ -19,7 +19,7 @@ import { BiMailSend } from 'react-icons/bi';
 
 const Logo = (props) => {
     return (
-        <Img w={48} h={10} src="/images/logo.png" alt="Logo" />
+        <Img w={48} h={36} src="/images/logo.png" alt="Logo" />
     );
 };
 
