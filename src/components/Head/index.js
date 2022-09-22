@@ -8,7 +8,7 @@ export default function Header (props) {
             <link rel="icon" type="image/x-icon" href="/images/icon.png"/>
             <meta name="description" content="Encontre os produtos legais e úteis."/>
             <meta name="keywords" content="produtos mais legais, invenções mais legais, produtos inovadores, idéias de invenções, invenções do Japão, gadgets, gadgets legais para comprar, gadgets legais para comprar hoje."/>
-            <title>{props?.pageTitle ? `${props.pageTitle} - Ki Achado ` : 'Os melhores achados da internet - Ki Achado '}</title>
+            <title>{props?.pageTitle ? `${props.pageTitle} - ShopT3m ` : 'Os melhores achados da internet - ShopT3m '}</title>
         </Head>
     )
 }
